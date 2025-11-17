@@ -1,0 +1,12 @@
+# Dependencies
+/node_modules
+
+# Secrets
+.env.local
+
+# Build output
+/dist
+
+# OS / IDE files
+.DS_Store
+.vscode/
